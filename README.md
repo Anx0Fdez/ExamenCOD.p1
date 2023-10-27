@@ -1,6 +1,8 @@
-# EXAMEN DAM PARTE 1
+# <span style="color:green">**EXAMEN DAM PARTE 1**</span>  
 
-### Comandos Utilizados:
+
+### <span style="color:Darkseagreen">*Comandos Utilizados:*</span>  
+
 
 1. Hacemos el clonado del repositorio de GIT:
 ~~~
