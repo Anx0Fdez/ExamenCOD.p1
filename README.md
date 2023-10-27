@@ -36,7 +36,10 @@ git add Boletin5.java consumo.java
 git commit -m "boletin.v1"
 git push -u origin main
 ~~~
- ***"TODO ESTO DESDE LA CONSOLA DE COMADOS USANDO COMANDOS COMO:"***
+
+6. Finalmente realizamos un commit final al boletin y al README.md para subir al repositorio todos los archivos actualizados.
+
+***"TODO ESTO DESDE LA CONSOLA DE COMADOS USANDO COMANDOS COMO:"***
  ~~~
 - ls (listar documentos que tenemos en determinada carpeta)
 - mkdir (creación de nueva carpeta)
@@ -44,7 +47,5 @@ git push -u origin main
 - cd .. (volver hacia atrás)
 - pwd (saber en qué fichero nos encontramos)
  ~~~
-
-6. Finalmente realizamos un commit final al boletin y al README.md para subir al repositorio todos los archivos actualizados.
 
 #### ***Anxo Fernadez Rodriguez DAM1***
