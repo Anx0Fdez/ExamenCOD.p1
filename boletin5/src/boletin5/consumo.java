@@ -1,4 +1,4 @@
-
+//ESTO ES UNA MODIFICACION PARA EL EXAMEN DE COD
 package boletin5;
 
 public class consumo {
@@ -61,3 +61,5 @@ public consumo () {
         return this.pGas;
     }
 }
+
+//ESTO ES UNA MODIFICACION PARA EL EXAMEN DE COD

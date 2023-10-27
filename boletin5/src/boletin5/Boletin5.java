@@ -1,3 +1,4 @@
+//ESTO ES UNA MODIFICACION PARA EL EXAMEN DE COD
 
 package boletin5;
 
@@ -20,7 +21,9 @@ public class Boletin5 {
         System.out.print("Introduce precio gasolina : ");
         float pG = sc.nextFloat();
   
-    
+//ESTO ES UNA MODIFICACION PARA EL EXAMEN DE COD
+//ESTO ES UNA MODIFICACION PARA EL EXAMEN DE COD
+
    consumo obxConP = new consumo (km, li, vM, pG );
    obxConP.consumoEuros ( );
    obxConP.consumoMedio ( );
@@ -28,3 +31,4 @@ public class Boletin5 {
  }
     
 }
+//ESTO ES UNA MODIFICACION PARA EL EXAMEN DE COD
